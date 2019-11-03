@@ -2,6 +2,8 @@
     <wb-module deploy-name="RajWorld-0.0.1-SNAPSHOT">
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/com/src/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/com/src/test"/>
         <property name="context-root" value="RajWorld"/>
         <property name="java-output-path" value="/RajWorld/target/classes"/>
     </wb-module>

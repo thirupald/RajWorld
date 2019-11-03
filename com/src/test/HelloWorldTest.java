@@ -1,4 +1,3 @@
-package src;
 import org.junit.Test;
 
 import junit.framework.TestCase;
