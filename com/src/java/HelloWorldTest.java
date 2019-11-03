@@ -2,7 +2,6 @@ import org.junit.Test;
 
 import junit.framework.TestCase;
 
-
 public class HelloWorldTest extends TestCase {
 
 	public static void main (String[] args) {
