@@ -8,7 +8,7 @@ public class HelloWorld {
 	}
 	
 	public String method1(){
-		return "hi"
+		return "hi";
 		
 	}
 
