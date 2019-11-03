@@ -11,5 +11,10 @@ public class HelloWorld {
 		return "hi";
 		
 	}
+	
+	public String method2(){
+		return "hi";
+		
+	}
 
 }
